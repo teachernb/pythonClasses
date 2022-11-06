@@ -1,1 +1,1 @@
-# pythonClasses
+# Python osztályok
