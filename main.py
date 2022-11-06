@@ -1,9 +1,12 @@
-from Superhero import Szuperhos
+from tkinter import *
+import addHero
+
+root = Tk()
 
 
-def addHero():
-    s = Szuperhos("Thor", 70)
-    print(s.nev)
+myButton = Button(root, text="Szuperhős létrehozása", padx=50, pady=50,
+                  command=lambda: addHero.addHero(root), fg="red", bg="blue")
 
+myButton.pack()
 
-addHero()
+root.mainloop()
