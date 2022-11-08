@@ -6,7 +6,6 @@ def addHero(root):
     s = Szuperhos("Thor", 70)
     benedeke = Szuperhos("KKK", 40)
     zalanhose = Szuperhos("Goku", 9001)
-    david_hose = Szuperhos("😎", -1)
     dominikHose = Szuperhos("RHN", 1235)
     david_hose = Szuperhos("😎", -1)
     s1 = Szuperhos("NB", "Infinity")
