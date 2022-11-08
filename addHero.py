@@ -13,7 +13,7 @@ def addHero(root):
     eszterhose = Szuperhos("Hősneve", 45)
     k = Szuperhos("Supermodell", 1000)
     adamhose = Szuperhos("Jamal", 1)
- 
+    danihoes = Szuperhos("Superhero", 1000000)
 
 
     g = Szuperhos("PepsiMan", 5999999999)
