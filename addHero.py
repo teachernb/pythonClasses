@@ -18,5 +18,6 @@ def addHero(root):
 
 
     g = Szuperhos("PepsiMan", 5999999999)
+    bazsi_hos = Szuperhos("Lö Csó", 99999999999999999)
     createhHeroLbl = Label(root, text=s.nev + " " + str(s.szuperero))
     createhHeroLbl.pack()
