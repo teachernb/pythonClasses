@@ -13,10 +13,8 @@ def addHero(root):
     eszterhose = Szuperhos("Hősneve", 45)
     k = Szuperhos("Supermodell", 1000)
     adamhose = Szuperhos("Jamal", 1)
- 
-
-
     g = Szuperhos("PepsiMan", 5999999999)
     bazsi_hos = Szuperhos("Lö Csó", 99999999999999999)
+    
     createhHeroLbl = Label(root, text=s.nev + " " + str(s.szuperero))
     createhHeroLbl.pack()
