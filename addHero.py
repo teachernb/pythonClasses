@@ -8,6 +8,7 @@ def addHero(root):
     david_hose = Szuperhos("😎", -1)
     somahosealegjobb = Szuperhos("UwU", 9999999999999999)
     veghdavidbelapatrik = Szuperhos("Kazuma", 9001)
+    eszterhose = Szuperhos("Hősneve", 45)
     k = Szuperhos("Supermodell", 1000)
     createhHeroLbl = Label(root, text=s.nev + " " + str(s.szuperero))
     createhHeroLbl.pack()
