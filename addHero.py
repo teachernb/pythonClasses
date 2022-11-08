@@ -12,8 +12,8 @@ def addHero(root):
     veghdavidbelapatrik = Szuperhos("Kazuma", 9001)
     eszterhose = Szuperhos("Hősneve", 45)
     k = Szuperhos("Supermodell", 1000)
-
-
+    adamhose = Szuperhos("Jamal", 1)
+ 
 
 
     g = Szuperhos("PepsiMan", 5999999999)
